@@ -52,12 +52,12 @@ Funciones básicas como escuchar música, podcast que son totalmente gratuitas, 
 
 ## Integrantes
 
-> [Alejandro Jimenez]()
+> [Alejandro Jimenez](https://github.com/alebrij3)
 
 > [Héctor Martínez](https://github.com/hectormr206)
 
-> [Ismael Casarrubias]()
+> [Ismael Casarrubias](https://github.com/ism16)
 
-> [Santiago Duque]()
+> [Santiago Duque](https://github.com/sd8956)
 
-> [Stiven Jiménez]()
+> [Stiven Jiménez](https://github.com/stivenjimenez)
