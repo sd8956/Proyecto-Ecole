@@ -22,27 +22,27 @@ Funciones básicas como escuchar música, podcast que son totalmente gratuitas, 
 
 ## 11 stars framework
 
-⭐ No funciona el reproductor de música
+1:⭐ No funciona el reproductor de música
 
-⭐⭐ Mala calidad en el audio
+2:⭐⭐ Mala calidad en el audio
 
-⭐⭐⭐ Carga de música muy lenta
+3:⭐⭐⭐ Carga de música muy lenta
 
-⭐⭐⭐⭐ Encontrar poco material para escuchar
+4:⭐⭐⭐⭐ Encontrar poco material para escuchar
 
-⭐⭐⭐⭐⭐ Encontrar y escuchar la música que quiero con buena calidad sin fallos
+5:⭐⭐⭐⭐⭐ Encontrar y escuchar la música que quiero con buena calidad sin fallos
 
-⭐⭐⭐⭐⭐🌟 Un catálogo amplio de audiolibros en varios idiomas, mensualmente se actualiza y crece
+6:⭐⭐⭐⭐⭐🌟 Un catálogo amplio de audiolibros en varios idiomas, mensualmente se actualiza y crece
 
-⭐⭐⭐⭐⭐🌟🌟 Recibir adelantos de canciones, producciones o álbumes de tus artistas favoritos con una suscripción adicional
+7:⭐⭐⭐⭐⭐🌟🌟 Recibir adelantos de canciones, producciones o álbumes de tus artistas favoritos con una suscripción adicional
 
-⭐⭐⭐⭐⭐🌟🌟🌟 Obtienes con tu suscripción unos audífonos Bose con Noise Cancelling para escuchar tu podcast y canciones favoritas
+8:⭐⭐⭐⭐⭐🌟🌟🌟 Obtienes con tu suscripción unos audífonos Bose con Noise Cancelling para escuchar tu podcast y canciones favoritas
 
-⭐⭐⭐⭐⭐🌟🌟🌟🌟 Que un famoso(a) / figura pública te cante un cover de tu canción favorita
+9:⭐⭐⭐⭐⭐🌟🌟🌟🌟 Que un famoso(a) / figura pública te cante un cover de tu canción favorita
 
-⭐⭐⭐⭐⭐🌟🌟🌟🌟🌟 Todas las funcionalidades de spotify gratis para los estudiantes de Platzi Master
+10:⭐⭐⭐⭐⭐🌟🌟🌟🌟🌟 Todas las funcionalidades de spotify gratis para los estudiantes de Platzi Master
 
-⭐⭐⭐⭐⭐🌟🌟🌟🌟🌟🌟 Concierto privado en la luna con el CEO de Spotify y Elon Musk 👩🏽‍🚀
+11:⭐⭐⭐⭐⭐🌟🌟🌟🌟🌟🌟 Concierto privado en la luna con el CEO de Spotify y Elon Musk 👩🏽‍🚀
 
 ## Propuestas
 
