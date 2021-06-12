@@ -84,6 +84,11 @@ Spotify cuenta con un cliente para distintas plataformas, e.g., MAC, PC, iOs, cl
 * Dile lo que sientes con una canción: Esa parte de la canción que siempre quisiste compartir, ¡Hazlo ahora en Spotify!
     * El usuario selecciona una pequeña parte de la canción o podcast y la comparte en un enlace generado por nosotros
     * Mostrar mensaje compartido mientras escuchas la canción o podcast
+* El modelo de negocio Software as a Service a largo plazo, para el usuario, puede ser en cierta manera injusto, Spotify genera una especie de "Commitment y Consistency", de manera que el usuario debe seguir pagando el servicio para poder seguir escuchando su música favorita, tener acceso a sus listas y a los features completos. Una propuesta de valor es crear incentivos para reconocer la fidelidad de los usuarios. De manera que si en algún momento desean cancelar su suscripción, mantengan algún beneficio
+* Almacenar los podcasts en los servidores de spotify, de manera que los creadores de contenido no se vean obligados a pagar a un agregador de servicio para distribuir su contenido a través de nuestra plataforma
+* Aumentar las tasas para incentivar el uso de nuestro servicio
+* Aplicar conceptos de "Social Proof", desarrollar campañas en redes sociales con embajadores de la marca estratégicos, enfocados en sectores de la población con áreas de oportunidad
+* Abrir una unidad de negocio, en la que los creadores de contenido permitan el uso de su contenido (podcastas o música) para ser utilizados por empresas a través de un servicio para entrenamiento de algoritmos de procesamiento de audio/voz, reconocimiento de patrones, ASR's por empresas o terceros autorizados. Este nuevo feature ofrecería una nueva forma de monetizar contenido, e incluso incluir categorías de efectos de sonido
 
 
 ## Integrantes
