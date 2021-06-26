@@ -17,7 +17,7 @@ Sentir la libertad de llevar toda tu colección de música en el bolsillo de una
 
 #### Propuesta
 
-La estrategia a seguir es liberar a un pequeño grupo de personas la opción de obtener adelantos de algunos artistas y ver cómo esto influye en su día a día, viendo el impacto que esto tomará para que decidan atraer a más y más personas a Spotify. ¿Cómo lo harán?, Compartiendo en redes sociales sus emociones al saber que son uno de los pocos que pueden disfrutar de este nuevo feature.
+Al adquirir la suscripción adicional se abrirá una nueva sección de la app donde encontrará adelantos o material adicional de las nuevas canciones de aquellos artistas que se seleccionen como favoritos por el usuario, en esta nueva sección encontrará un catálogo con los artistas y podrá revisar cada uno por separado o ingresar a un inicio general donde podrá ver en forma de publicaciones (como en una red social) los adelantos exclusivos de las nuevas producciones de estos artistas como adelantos, fragmentos del trabajo realizado en la producción etc. El artista decidirá que publicar con el fin de generar mayor expectación en sus seguidores, los usuarios podrán compartir en sus redes sociales sus reacciones a estos adelantos para atraer más personas a Spotify para poder disfrutar de estos adelantos.
 
 ### 11 stars framework (Artista/Creador de contenido)
 &nbsp; | | Descripción
@@ -26,8 +26,7 @@ La estrategia a seguir es liberar a un pequeño grupo de personas la opción de 
 
 #### Propuesta
 
-La estrategia será tomar a los artistas con mayores seguidores y liberaremos el primer feature de interacción en tiempo real para todos los usuarios con cuenta premium.
-Con los comentarios y vivencias de cada artista y usuario, iremos creando una experiencia más placentera para ambos.
+Solución: Inicialmente se liberara esta característica a los artistas con mayor cantidad de seguidores, estos encontrara una nueva opción en la cual podrá interactuar con sus seguidores creando una sala de conversación como un podcast en vivo donde sus seguidores podrán escucharlo (pero no verlo), realizar distintas preguntas y platicar con él, para acceder a estas salas hará falta contas con la suscripción premiun y tendrán un número limitado de participantes, el artista podrá crear estas salan cuando quiera con distintos fines ya sea conocer la opinión sobre su trabajo, solo hablar con y conocer sus seguidores, etc. Esta funcionalidad se liberará progresivamente a los artistas mas pequeños. 
 
 ## Integrantes
 
