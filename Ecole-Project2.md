@@ -6,7 +6,10 @@
 
 ## De tu producto, ¿cuál es el Job to be done?
 
-Sentir la libertad de llevar toda tu colección de música en el bolsillo de una forma organizada y poder compartir los sentimientos que te provocan con todo el mundo.
+Hace parte de la comunidad y el ecosistema más grande  en el mundo de la  música que brindamos en Spotify y sentir la libertad de llevar toda tu colección de música en el bolsillo de una forma organizada y poder compartir los sentimientos que te provocan con todo el mundo.
+
+
+
 
 ## De acuerdo a “Imperfect is perfect” ¿Cómo vas a lanzar las propuestas de feature de 7 estrellas establecida en tu plan?. Describe la estrategia a implementar.
 
